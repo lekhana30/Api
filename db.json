@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "firstname": "taehyung",
+      "lastname": "kim",
+      "mobile": "9226758989",
+      "email": "vtate@gmail.com",
+      "salary": "380000"
+    },
+    {
+      "id": 6,
+      "firstname": "Ranjini",
+      "lastname": "M",
+      "mobile": "787654578",
+      "email": "ranjini123@gmiail.com",
+      "salary": "84566"
+    },
+    {
+      "id": 7,
+      "firstname": "Jeon",
+      "lastname": "Jungkook",
+      "mobile": "8787645558",
+      "email": "bunny@bts.com",
+      "salary": "68000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
